@@ -1,3 +1,5 @@
+// https://github.com/tarunmitra/Assignment
+
 function kilometerToMeter(kilometer){
    var meter = kilometer * 1000;
    return meter;
@@ -39,7 +41,8 @@ function hotelCost(day){
    return cost;
 }
 
-var count = hotelCost(10);
+var totalCost = hotelCost(10);
+
 
 
 
